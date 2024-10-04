@@ -21,7 +21,7 @@
                     <img class="w-full h-full" src="../assets/img/divide.svg" />
                 </div>
 
-                <div class="w-full py-5" id="shops">
+                <div class="w-full py-5 scroll-mt-11" id="shops">
                     <div class="flex ml-3 items-end uppercase text-xl text-yellow-300 font-bold before:font-black before:inline-block align-bottom before:content-['Платформы'] before:align-baseline  before:absolute before:text-4xl before:text-yellow-600 before:opacity-15 before:-ml-3">Платформы</div>
                     <div class="grid grid-cols-1 gap-5 md:grid-cols-2 mt-5">
                         <div class="flex justify-between items-center border-2 border-stone-600 w-full p-5 before:font-black before:inline-block align-bottom before:content-['Уже'] before:align-baseline  before:absolute before:text-7xl before:text-yellow-600 before:opacity-15 before:ml-10 before:pb-5">
@@ -50,7 +50,7 @@
                     <div class="text-center py-2 text-orange-100 opacity-50">Игра находится в стадии разработки. Вы можете подписаться на новости игры в магазинах</div>
                 </div>
 
-                <div class="w-full py-5" id="about">
+                <div class="w-full py-5 scroll-mt-11" id="about">
                     <div class="flex ml-3 items-end uppercase text-xl text-yellow-300 font-bold before:font-black before:inline-block align-bottom before:content-['Об_игре'] before:align-baseline  before:absolute before:text-3xl before:text-yellow-600 before:opacity-15 before:-ml-3">Об игре</div>
                     <p class="leading-tight text-justify text-orange-100 indent-8 py-2 leading-7">
                     В недалеком будущем открытие свойства в минерале <span class="text-yellow-300">Пангит</span> изменило все. Ученые обнаружили, что в нем содержится цифровой код, позволяющий получить ответ на вопрос о происхождении космоса. Многие корпорации заинтересовались этим минералом, и инвестиции в его поиск стали приоритетом. ЧВК занимаются контрабандой, корпорации стремятся к коммерческой выгоде, а научные центры ищут открытия.
@@ -136,7 +136,7 @@
                     <img class="w-full h-full" src="../assets/img/divide.svg" />
                 </div>
 
-                <div class="w-full py-4" id="dev">
+                <div class="w-full py-4 scroll-mt-11" id="dev">
                     <div class="flex ml-3 items-end uppercase text-xl text-yellow-300 font-bold before:font-black before:inline-block align-bottom before:content-['Социальные_сети'] before:align-baseline  before:absolute before:text-3xl before:text-yellow-600 before:opacity-15 before:-ml-3 before:truncate">Социальные сети</div>
                         
                     <div class="overflow-x-auto">
