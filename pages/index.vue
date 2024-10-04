@@ -6,14 +6,14 @@
             <div class="w-full h-full mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
 
                 <div class="p-5 w-full flex flex-col space-y-2 border-2 border-stone-600 lg:flex-row lg:space-y-0 lg:space-x-5">
-                    <a href="http://localhost:3000/_nuxt/assets/img/screen1.webp" class="flex-1 lg:min-w-[600px]" data-fancybox="gallery">
+                    <a href="https://pangit.netlify.app/_nuxt/assets/img/screen1.webp" class="flex-1 lg:min-w-[600px]" data-fancybox="gallery">
                     <img class="shadow w-full h-full object-cover" src="../assets/img/screen1.webp" />
                     </a> 
                     <div class="flex flex-nowrap space-x-2 lg:space-x-0 lg:grid lg:gap-5 lg:grid-cols-2 lg:grid-cols-2 items-start justify-start overflow-x-auto overflow-y-hidden">
                         <a href="~/assets/img/screen2.webp" class="bg-cover shadow min-w-[140px] h-[70px] md:w-full md:h-full md:max-h-[80px] lg:h-full lg:max-h-none" data-fancybox="gallery"><img class="w-full h-full object-cover" src="../assets/img/screen2.webp" /></a>
-                        <a href="http://localhost:3000/_nuxt/assets/img/screen3.webp" class="bg-cover shadow min-w-[140px] h-[70px] md:w-full md:h-full md:max-h-[80px] lg:h-full lg:max-h-none" data-fancybox="gallery"><img class="w-full h-full object-cover" src="../assets/img/screen3.webp" /></a>
-                        <a href="http://localhost:3000/_nuxt/assets/img/screen4.webp" class="bg-cover shadow min-w-[140px] h-[70px] md:w-full md:h-full md:max-h-[80px] lg:h-full lg:max-h-none" data-fancybox="gallery"><img class="w-full h-full object-cover" src="../assets/img/screen4.webp" /></a>
-                        <a href="http://localhost:3000/_nuxt/assets/img/screen5.webp" class="bg-cover shadow min-w-[140px] h-[70px] md:w-full md:h-full md:max-h-[80px] lg:h-full lg:max-h-none" data-fancybox="gallery"><img class="w-full h-full object-cover" src="../assets/img/screen5.webp" /></a>
+                        <a href="https://pangit.netlify.app/_nuxt/assets/img/screen3.webp" class="bg-cover shadow min-w-[140px] h-[70px] md:w-full md:h-full md:max-h-[80px] lg:h-full lg:max-h-none" data-fancybox="gallery"><img class="w-full h-full object-cover" src="../assets/img/screen3.webp" /></a>
+                        <a href="https://pangit.netlify.app/_nuxt/assets/img/screen4.webp" class="bg-cover shadow min-w-[140px] h-[70px] md:w-full md:h-full md:max-h-[80px] lg:h-full lg:max-h-none" data-fancybox="gallery"><img class="w-full h-full object-cover" src="../assets/img/screen4.webp" /></a>
+                        <a href="https://pangit.netlify.app/_nuxt/assets/img/screen5.webp" class="bg-cover shadow min-w-[140px] h-[70px] md:w-full md:h-full md:max-h-[80px] lg:h-full lg:max-h-none" data-fancybox="gallery"><img class="w-full h-full object-cover" src="../assets/img/screen5.webp" /></a>
                     </div>
                 </div> 
 
