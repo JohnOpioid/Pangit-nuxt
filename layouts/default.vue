@@ -9,7 +9,7 @@ onMounted(() => {
     useFlowbite(() => {
         initFlowbite();
     })
-});
+}); 
 useHead({
   title: 'PANGIT',
   meta: [
